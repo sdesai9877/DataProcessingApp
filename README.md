@@ -3,8 +3,8 @@ Given an input file containing multiple lines. Each line has Customer informatio
 The project parse the data and generate reports.
 
 ## Clone the repository
-git clone <repository-link>
-cd <repository-directory>
+1. git clone <repository-link>
+2. cd <repository-directory>
 
 
 ## Compile the application
