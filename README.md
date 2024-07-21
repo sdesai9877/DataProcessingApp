@@ -6,16 +6,13 @@ Clone the repository
 git clone <repository-link>
 cd <repository-directory>
 
+
 ## Compile the application
-javac -d out src/**/*.java
+Install The Spring tool suite and Import the code and Update the maven project
 
 
 ## Run the application:
-java -cp out Application.java
-
-## Run the Test
-javac -d out -cp .:/path/to/junit-platform-commons-1.8.2.jar src/**/*.java
-java -jar /path/to/junit-platform-commons-1.8.2.jar --class-path out --scan-class-path
+Right click on Project -> Run As Java Application
 
 ### Libraries and Tools used for Development
 * Java 17
